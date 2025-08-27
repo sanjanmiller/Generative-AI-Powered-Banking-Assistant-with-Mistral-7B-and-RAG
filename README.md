@@ -22,6 +22,9 @@ This project is a **Generative AI-powered banking assistant** built with **Mistr
 ## 🔧 **Installation & Setup**  
 
 ### **1️⃣ Clone the Repository**  
-```bash
-git clone https://github.com/yourusername/BankBuddy.git
-cd BankBuddy
+git clone https://github.com/sanjanmiller/Generative-AI-Powered-Banking-Assistant-with-Mistral-7B-and-RAG.git  
+cd Generative-AI-Powered-Banking-Assistant-with-Mistral-7B-and-RAG
+
+### **2️⃣ Install Dependencies**  
+pip install -r requirements.txt  
+
