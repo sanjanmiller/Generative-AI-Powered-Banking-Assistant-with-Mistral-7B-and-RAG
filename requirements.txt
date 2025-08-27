@@ -1,0 +1,9 @@
+transformers
+torch
+accelerate
+sentence-transformers
+chromadb
+pypdf
+numpy
+pandas
+gradio
